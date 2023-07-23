@@ -1,0 +1,27 @@
+<h2>How the internet works</h2>
+- In 1969, the United States Department of Defense funded the creation of ARPANET, a precursor network to the internet. 
+- ARPANET stands for Advanced Research Projects Agency Network. 
+
+- ARPANET connected the supercomputing centers run by government agencies and universities.
+- **Purpose:** connect their individual networks for large-scale information transfer. 
+- **Problem:** However, many of them followed different standards and technical implementations. 
+- **Solution:** In the 1970s, the transmission control protocol and internet protocol, otherwise known as TCP/IP, were created to provide standards around the transfer of data that would allow these early networks to communicate with each other.
+-- TCP/IP was researched and specified throughout the 1970s and adopted in the early 1980s. As different networks adopted TCP/IP, the interconnected global network of networks that is today known as the Internet was formed.
+
+- <h3>Internet vs Web:</h3>
+-- **Internet:** the actual network of connected computing devices. Although the internet was around in the 1980s, there was not intuitive way for most people to browse the internet. The internet just sent messages produced by one computer and presented them to another computer.
+-- **Web:**  In 1989 Tim Berners-Lee invented the world wide web. 
+--- The world wide web is a collection of interlinked websites and other web resources. 
+--- The world wide web, in combination with the rise of web browsers in the 1990s, introduced a user-friendly interface that enabled users to browse multimedia content and interact with other users.
+
+- <h3>What is a Server</h3>
+-- Let's look at the look at the client-server model. 
+--- In this model, the client refers to the user’s device or program that is making a **request for data**. 
+----- A client can be a browser or application running on a user’s laptop, smartphone, or tablet.
+
+
+The server is the device or program in that network that waits for incoming requests and sends back data. This might be an in-house server, a rented server at a data center, or cloud server. At Codecademy, we have servers that store lesson data and our servers are sending this lesson data to your client device.
+<h2>Different languages used for web development</h2>
+<h2>What is programming</h2>
+<h2>What a software engineer does</h2>
+<h2>The difference between front-end and back-end engineering (and full-stack!)</h2>
