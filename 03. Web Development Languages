@@ -4,7 +4,8 @@
 > - HTML is the skeleton of all web pages. 
 > - It provides structure to the content on a website, including text, images, buttons, videos, and more.
 > - HTML stands for ___hypertext markup language___. 
-`<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
     <head>
         <title>My web page</title>
@@ -16,7 +17,8 @@
              <strong>main heading</strong> and <em> paragraph </em>.
         </p>
     </body>
-</html>`
+</html>
+```
 
 
 <h2>What is programming</h2>
