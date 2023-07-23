@@ -1,0 +1,40 @@
+As you go through the course, I’ll suggest certain resources. 
+Here are a few to get you started on this journey. You might want to bookmark these for future reference.
+
+Github
+- [Markdown Guide - Basic](https://www.markdownguide.org/basic-syntax/)
+- [Markdown Guide - More Info](https://www.markdownguide.org/extended-syntax/)
+
+General Knowlegde 
+- [MDN Web Docs ](https://developer.mozilla.org/en-US/)
+- [W3 School](https://www.w3schools.com/)
+- [Can I Use](https://caniuse.com)
+- [W3C Moocs (can be audited for free)](https://w3cx.org/)
+- [Edx (FYI: Many are paid courses)](https://w3cx.org/)
+
+Stuck and Need Help? Chances are another developer was stuck on the same/similar problem - see if you can find a solution
+- [Stack Overflow](https://www.markdownguide.org/extended-syntax/)
+
+Developer Tools
+- [w3 Developer Tools](https://www.w3.org/developers/tools/)
+
+CSS
+- [CSS-Tricks](https://css-tricks.com/)
+
+Development News 
+(It's important to stay up to date with tech news - many employers will ask you to describe something that you just learned - citing a tech article (what you learned and what you found interesting) is a good way to show that you are actually interested in continuing to learn about the tech community
+- [The Verge](https://www.theverge.com/tech)
+- [Wired](https://www.wired.com/)
+- [Tech Crunch](https://techcrunch.com/)
+- [Geek Wired](https://www.geekwire.com/)
+
+Developer Communities
+- [DEV Community](https://dev.to/)
+  
+Bookmark these resources.
+
+(Optional) Recommended Books
+HTML & CSS, Jon Duckett
+Eloquent JavaScript - a free EBook!
+Cracking the Coding Interview (6th Edition), Gayle Laakamann McDowell
+While the books listed are recommended and will help you on your coding journey, purchasing and reading them is optional. 
